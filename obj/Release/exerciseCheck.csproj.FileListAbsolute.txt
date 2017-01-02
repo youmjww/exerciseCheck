@@ -1,0 +1,16 @@
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\bin\Release\exerciseCheck.exe.config
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\bin\Release\exerciseCheck.exe
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\bin\Release\exerciseCheck.pdb
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\obj\Release\exerciseCheck.Form1.resources
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\obj\Release\exerciseCheck.Properties.Resources.resources
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\obj\Release\exerciseCheck.csproj.GenerateResource.Cache
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\obj\Release\exerciseCheck.exe
+C:\Users\B4234\Desktop\exerciseCheck-master\exerciseCheck-master\exerciseCheck\exerciseCheck\obj\Release\exerciseCheck.pdb
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\bin\Release\exerciseCheck.exe.config
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\obj\Release\exerciseCheck.exe
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\obj\Release\exerciseCheck.pdb
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\bin\Release\exerciseCheck.exe
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\bin\Release\exerciseCheck.pdb
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\obj\Release\exerciseCheck.Form1.resources
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\obj\Release\exerciseCheck.Properties.Resources.resources
+C:\Users\you\Desktop\瀧谷先生\exerciseCheck\obj\Release\exerciseCheck.csproj.GenerateResource.Cache
